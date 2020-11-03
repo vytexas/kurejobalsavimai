@@ -7,7 +7,7 @@
         <tr>
             <th scope="col">Balsavimo Pavadinimas</th>
             <th scope="col">Balsavimo Klausimas</th>
-            <th scope="col">Galimi Atsakymai/th>
+            <th scope="col">Galimi Atsakymai</th>
             <th scope="col">Balsai</th>
             <th scope="col">Sukūrimo Data</th>
             <th scope="col">Paskutinis Atnaujinimas</th>
